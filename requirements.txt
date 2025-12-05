@@ -1,0 +1,11 @@
+# Requirements for Projective Geometry Computer Vision Project
+# Install with: pip install -r requirements.txt
+
+# Core numerical computing library
+numpy>=1.20.0
+
+# Computer vision library - main workhorse for image operations
+opencv-python>=4.5.0
+
+# Visualization library for displaying results
+matplotlib>=3.4.0
